@@ -1,0 +1,21 @@
+{
+  "name": "ai_agent_marketplace",
+  "version": "1.0.0",
+  "description": "This is going to be my AI agent marketplace backend setup ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "krushr"
+  ],
+  "author": "Amit Kumar Hota",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.6.0"
+  }
+}
